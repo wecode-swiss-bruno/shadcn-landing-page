@@ -1,0 +1,13 @@
+{
+    "company_name": "SWIMI",
+    "contact": {
+      "phone": "078 264 44 63",
+      "website": "swimi.ch",
+      "email": "info@swimi.ch"
+    },
+    "social_media": {
+        "facebook": "https://www.facebook.com/swimi.ch",
+        "instagram": "https://www.instagram.com/swimi.ch",
+        "twitter": "https://www.twitter.com/swimi.ch"
+    }
+}

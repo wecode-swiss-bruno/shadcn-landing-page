@@ -1,0 +1,55 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+# AI Guidelines for SWIMI Landing Page Project
+
+## Context
+This project is a landing page generator for an "École de bébés nageurs" (Baby Swimmers School) with 7 swimming pools. The goal is to generate various landing pages for different pool locations or services.
+
+## General Rules
+
+1. **Maintain Project Structure**: Follow the existing component-based architecture.
+2. **Language Priorities**: 
+   - French is the primary language for user-facing content
+   - English is acceptable for code comments and variable names
+3. **Brand Identity**: Maintain a friendly, professional tone that appeals to parents of young children
+4. **Mobile-First**: Ensure all modifications maintain mobile responsiveness
+5. **Accessibility**: Maintain A11Y standards throughout the project
+
+## Component Modifications
+
+When modifying components:
+1. Keep the Shadcn/Tailwind design system intact
+2. Maintain dark/light mode functionality
+3. Follow existing naming conventions for components
+4. Preserve React component patterns (functional components with hooks)
+
+## Content Guidelines
+
+1. **Baby Swimming Focus**: All content should relate to baby swimming activities
+2. **Parent-Oriented**: Content should address parents' concerns and needs
+3. **Safety First**: Emphasize safety aspects of the swimming programs
+4. **Developmental Benefits**: Highlight developmental benefits of baby swimming
+5. **Location-Specific**: When creating location-specific pages, include:
+   - Address and directions
+   - Pool specifications
+   - Available class times
+   - Specific amenities
+
+## Technical Constraints
+
+1. Keep bundle size minimal by reusing existing components
+2. Avoid introducing new dependencies unless absolutely necessary
+3. Maintain TypeScript type safety
+4. Ensure all components use the theme provider for styling
+5. Follow the existing folder structure
+
+## Deployment Considerations
+
+When preparing for deployment:
+1. Optimize images for web
+2. Ensure metadata is correctly set for SEO
+3. Verify all links work correctly
+4. Test across multiple browsers and devices 

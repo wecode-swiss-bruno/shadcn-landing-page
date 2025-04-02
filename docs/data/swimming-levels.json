@@ -1,0 +1,160 @@
+{
+  "baby_levels": [
+    {
+      "level": "b1",
+      "name": "Éveil aquatique",
+      "description": "Pour tous les bébés de 4 à 12 mois, à travers des jeux et des chansons. Ce niveau est basé sur l'âge et ne nécessite aucune expérience aquatique préalable.",
+      "objectives": [
+        "Familiarisation et confort dans l'eau",
+        "Réflexes essentiels",
+        "Flottaison sur le dos",
+        "Compétences de survie"
+      ],
+      "age_categories": [
+        { "from": 4, "to": 6 },
+        { "from": 7, "to": 12 }
+      ],
+      "requires_adult": true,
+      "languages": ["fr", "en"],
+      "frequency": "1 cours par semaine",
+      "level_duration": "3 - 6 mois"
+    },
+    {
+      "level": "b2",
+      "name": "Sécurité aquatique",
+      "description": "Pour tous les bébés dès 13 mois qui n'ont jamais suivi de cours de natation auparavant. Ce cours s'adresse également aux bébés qui ont suivi des cours de natation préalables mais qui ne se sentent pas à l'aise de mettre leur tête sous l'eau.",
+      "objectives": [
+        "Battements forts des bras et des pieds",
+        "Gestes de sécurité",
+        "Flottaison",
+        "Plonger sous l'eau (5 sec)"
+      ],
+      "age_categories": [
+        { "from": 13, "to": 23 },
+        { "from": 24, "to": 35 },
+        { "from": 36, "to": 50 }
+      ],
+      "requires_adult": true,
+      "languages": ["fr", "en"],
+      "frequency": "1 cours par semaine",
+      "level_duration": "3 - 6 mois"
+    },
+    {
+      "level": "b3",
+      "name": "Petit nageur",
+      "description": "Pour tous les bébés de 13 mois et plus, à l'aise dans l'eau et capables de mettre leur tête sous l'eau pendant au moins 3 secondes.",
+      "objectives": [
+        "Autonomie dans l'eau",
+        "Position horizontale / Flottaison",
+        "Battements synchronisés",
+        "Nager indépendamment (5 sec)"
+      ],
+      "age_categories": [
+        { "from": 13, "to": 23 },
+        { "from": 24, "to": 35 },
+        { "from": 36, "to": 50 }
+      ],
+      "requires_adult": true,
+      "languages": ["fr", "en"],
+      "frequency": "1 cours par semaine",
+      "level_duration": "3 - 6 mois"
+    }
+  ],
+  "child_levels": [
+    {
+      "level": "c1-1",
+      "criteria": [
+        "L'enfant peut être séparé de son parent.",
+        "Il a peur ou n'est pas à l'aise pour mettre la tête sous l'eau.",
+        "Il n'est pas autonome."
+      ],
+      "age": { "from": 5, "to": 12 },
+      "teacher_ratio": "1 enseignant pour 3 enfants",
+      "parents_in_water": false,
+      "languages": ["fr", "en"],
+      "frequency": "1 cours par semaine",
+      "duration_minutes": 30,
+      "level_duration": "6 mois - 1 an"
+    },
+    {
+      "level": "c1-2",
+      "criteria": [
+        "L'enfant peut déjà nager 5 mètres.",
+        "L'enfant peut flotter sur les 2 côtés.",
+        "Il n'a pas de battement de pied forts."
+      ],
+      "age": { "from": 5, "to": 12 },
+      "teacher_ratio": "1 enseignant pour 3 enfants",
+      "parents_in_water": false,
+      "languages": ["fr", "en"],
+      "frequency": "1 cours par semaine",
+      "duration_minutes": 30,
+      "level_duration": "6 mois - 1 an"
+    },
+    {
+      "level": "c2-1",
+      "criteria": [
+        "L'enfant peut nager 10 mètres avec un crawl et un dos crawlé de base.",
+        "Il n'utilise pas la technique correcte des bras pour le Crawl."
+      ],
+      "age": { "from": 5, "to": 12 },
+      "teacher_ratio": "1 enseignant pour 3 enfants",
+      "parents_in_water": false,
+      "languages": ["fr", "en"],
+      "frequency": "1 cours par semaine",
+      "duration_minutes": 30,
+      "level_duration": "6 mois - 1 an"
+    },
+    {
+      "level": "c2-2",
+      "criteria": [
+        "Ils nagent le crawl et le dos crawlé mais ont besoin d'améliorer la technique."
+      ],
+      "age": { "from": 5, "to": 12 },
+      "teacher_ratio": "1 enseignant pour 3 - 6 enfants",
+      "parents_in_water": false,
+      "languages": ["fr", "en"],
+      "frequency": "1 cours par semaine",
+      "duration_minutes": 40,
+      "level_duration": "6 mois - 1 an"
+    },
+    {
+      "level": "c3-1",
+      "criteria": [
+        "Ils ne peuvent pas nager la brasse et le papillon."
+      ],
+      "age": { "from": 5, "to": 12 },
+      "teacher_ratio": "1 enseignant pour 5 - 10 enfants",
+      "parents_in_water": false,
+      "languages": ["fr", "en"],
+      "frequency": "1 cours par semaine",
+      "duration_minutes": 40,
+      "level_duration": "6 mois - 1 an"
+    },
+    {
+      "level": "c3-2",
+      "criteria": [
+        "Ils nagent la brasse et le papillon mais ont besoin de correction de la technique."
+      ],
+      "age": { "from": 5, "to": 12 },
+      "teacher_ratio": "1 enseignant pour 5 - 10 enfants",
+      "parents_in_water": false,
+      "languages": ["fr", "en"],
+      "frequency": "1 cours par semaine",
+      "duration_minutes": 40,
+      "level_duration": "6 mois - 1 an"
+    },
+    {
+      "level": "c4",
+      "criteria": [
+        "Ils connaissent parfaitement les 4 nages."
+      ],
+      "age": { "from": 5, "to": 12 },
+      "teacher_ratio": "1 enseignant pour 5 - 10 enfants",
+      "parents_in_water": false,
+      "languages": ["fr", "en"],
+      "frequency": "1 cours par semaine",
+      "duration_minutes": 40
+    }
+  ]
+} 

@@ -1,0 +1,172 @@
+{
+    "courses": [
+        {
+            "day": "mercredi",
+            "time_slot": {
+                "start": "14:00",
+                "end": "14:30"
+            },
+            "location_id": "morges",
+            "level": {
+                "id": "b1",
+                "age_category": "4-6 mois"
+            },
+            "capacity": 3,
+            "frequency": "hebdomadaire"
+        },
+        {
+            "day": "mercredi",
+            "time_slot": {
+                "start": "14:30",
+                "end": "15:00"
+            },
+            "location_id": "morges",
+            "level": {
+                "id": "b1",
+                "age_category": "7-12 mois"
+            },
+            "capacity": 3,
+            "frequency": "hebdomadaire"
+        },
+        {
+            "day": "mercredi",
+            "time_slot": {
+                "start": "15:00",
+                "end": "15:30"
+            },
+            "location_id": "morges",
+            "level": {
+                "id": "b2",
+                "age_category": "13-23 mois"
+            },
+            "capacity": 3,
+            "frequency": "hebdomadaire"
+        },
+        {
+            "day": "mercredi",
+            "time_slot": {
+                "start": "15:30",
+                "end": "16:00"
+            },
+            "location_id": "morges",
+            "level": {
+                "id": "b2",
+                "age_category": "13-23 mois"
+            },
+            "capacity": 3,
+            "frequency": "hebdomadaire"
+        },
+        {
+            "day": "mercredi",
+            "time_slot": {
+                "start": "16:00",
+                "end": "16:30"
+            },
+            "location_id": "morges",
+            "level": {
+                "id": "b3",
+                "age_category": "13-50 mois"
+            },
+            "capacity": 3,
+            "frequency": "hebdomadaire"
+        },
+        {
+            "day": "mercredi",
+            "time_slot": {
+                "start": "16:30",
+                "end": "17:00"
+            },
+            "location_id": "morges",
+            "level": {
+                "id": "b2",
+                "age_category": "24-35 mois"
+            },
+            "capacity": 3,
+            "frequency": "hebdomadaire"
+        },
+        {
+            "day": "samedi",
+            "time_slot": {
+                "start": "08:30",
+                "end": "09:00"
+            },
+            "location_id": "meyrin",
+            "level": {
+                "id": "b2",
+                "age_category": "36-50 mois"
+            },
+            "capacity": 7,
+            "frequency": "hebdomadaire"
+        },
+        {
+            "day": "samedi",
+            "time_slot": {
+                "start": "08:30",
+                "end": "09:00"
+            },
+            "location_id": "lausanne",
+            "level": {
+                "id": "c1-1",
+                "age_category": "à partir de 5 ans"
+            },
+            "capacity": 3,
+            "frequency": "hebdomadaire"
+        },
+        {
+            "day": "dimanche",
+            "time_slot": {
+                "start": "08:30",
+                "end": "09:00"
+            },
+            "location_id": "etoy",
+            "level": {
+                "id": "b2",
+                "age_category": "13-23 mois"
+            },
+            "capacity": 6,
+            "frequency": "hebdomadaire"
+        },
+        {
+            "day": "dimanche",
+            "time_slot": {
+                "start": "08:30",
+                "end": "09:00"
+            },
+            "location_id": "genève",
+            "level": {
+                "id": "b3",
+                "age_category": "36-50 mois"
+            },
+            "capacity": 5,
+            "frequency": "hebdomadaire"
+        },
+        {
+            "day": "mardi",
+            "time_slot": {
+                "start": "14:00",
+                "end": "14:30"
+            },
+            "location_id": "morges",
+            "level": {
+                "id": "b1",
+                "age_category": "7-12 mois"
+            },
+            "capacity": 3,
+            "frequency": "hebdomadaire"
+        },
+        {
+            "day": "samedi",
+            "time_slot": {
+                "start": "08:30",
+                "end": "08:50"
+            },
+            "location_id": "collombey",
+            "level": {
+                "id": "b2",
+                "age_category": "24-35 mois"
+            },
+            "capacity": 4,
+            "frequency": "hebdomadaire"
+        }
+    ]
+}

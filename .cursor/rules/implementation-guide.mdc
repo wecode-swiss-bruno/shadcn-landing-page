@@ -1,0 +1,100 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# Technical Implementation Guide for New Landing Pages
+
+## Setup Process
+
+1. **Initial Configuration**
+   ```bash
+   # Clone the base repository
+   git clone <repo-url> <new-location-name>
+   
+   # Install dependencies
+   npm install
+   
+   # Start development server
+   npm run dev
+   ```
+
+2. **Environment Configuration**
+   - Create a `.env.local` file with location-specific variables
+   - Update metadata in `index.html` for SEO purposes
+
+## Customization Workflow
+
+### 1. Content Customization
+
+#### Text Content
+1. Identify components that need location-specific content (src/components/*)
+2. Update text content in each component
+3. Ensure all content follows French language guidelines
+
+#### Image Assets
+1. Place location-specific images in `src/assets/`
+2. Use consistent naming conventions: `[location]-[purpose].[ext]`
+3. Optimize all images before adding to the project
+
+### 2. Component Customization
+
+#### Location Information
+Modify the following key components:
+1. **Hero.tsx**: Update main headline and hero image
+2. **About.tsx**: Update pool description and history
+3. **Services.tsx**: Adjust service offerings based on location
+4. **Pricing.tsx**: Update pricing structure if it varies by location
+5. **Team.tsx**: Add location-specific staff members
+6. **Contact.tsx**: Update address, phone, and map information
+
+#### Configuration-Based Changes
+1. Modify global configuration in `src/lib/config.ts` to include:
+   - Location name
+   - Contact details
+   - Operating hours
+   - Special features
+
+### 3. Theme Customization
+
+If needed, adjust the theme to match location-specific branding:
+1. Update primary colors in `tailwind.config.js`
+2. Ensure color scheme remains consistent with brand guidelines
+3. Test both light and dark modes
+
+## Testing Checklist
+
+Before deployment, verify:
+1. All links work correctly
+2. Contact information is accurate
+3. Forms submit properly
+4. Image loading is optimized
+5. Responsive layout works on all devices:
+   - Mobile phones
+   - Tablets
+   - Desktop
+6. No console errors or warnings
+7. Performance scores are acceptable
+
+## Deployment Process
+
+1. **Build the production version**
+   ```bash
+   npm run build
+   ```
+
+2. **Test the production build locally**
+   ```bash
+   npm run preview
+   ```
+
+3. **Deploy to hosting**
+   - Upload the `dist` folder to the web hosting service
+   - Configure any necessary redirects
+   - Set up custom domain if applicable
+
+## Maintenance Considerations
+
+1. Keep a record of all modified files for each location
+2. Document location-specific customizations
+3. When updating the base template, apply changes to all location variants 

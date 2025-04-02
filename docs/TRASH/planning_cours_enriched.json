@@ -1,0 +1,1022 @@
+[
+  {
+    "city_id": 1,
+    "city": "Collombey",
+    "course": {
+      "id": 1,
+      "niveau": 1,
+      "age": {
+        "from": 1,
+        "to": 4,
+        "unit": "month"
+      },
+      "day": "samedis",
+      "shift": {
+        "from": "10:10",
+        "to": "10:30"
+      },
+      "private": false,
+      "type": "BABY"
+    }
+  },
+  {
+    "city_id": 1,
+    "city": "Collombey",
+    "course": {
+      "id": 2,
+      "niveau": 1,
+      "age": {
+        "from": 1,
+        "to": 4,
+        "unit": "month"
+      },
+      "day": "samedis",
+      "shift": {
+        "from": "12:00",
+        "to": "12:20"
+      },
+      "private": false,
+      "type": "BABY"
+    }
+  },
+  {
+    "city_id": 1,
+    "city": "Collombey",
+    "course": {
+      "id": 3,
+      "niveau": 1,
+      "age": {
+        "from": 1,
+        "to": 4,
+        "unit": "month"
+      },
+      "day": "samedis",
+      "shift": {
+        "from": "09:10",
+        "to": "09:30"
+      },
+      "private": false,
+      "type": "BABY"
+    }
+  },
+  {
+    "city_id": 1,
+    "city": "Collombey",
+    "course": {
+      "id": 4,
+      "niveau": 1,
+      "age": {
+        "from": 1,
+        "to": 7,
+        "unit": "month"
+      },
+      "day": "samedis",
+      "shift": {
+        "from": "11:00",
+        "to": "11:20"
+      },
+      "private": false,
+      "type": "BABY"
+    }
+  },
+  {
+    "city_id": 1,
+    "city": "Collombey",
+    "course": {
+      "id": 5,
+      "niveau": 1,
+      "age": {
+        "from": 1,
+        "to": 7,
+        "unit": "month"
+      },
+      "day": "samedis",
+      "shift": {
+        "from": "11:20",
+        "to": "11:40"
+      },
+      "private": false,
+      "type": "BABY"
+    }
+  },
+  {
+    "city_id": 1,
+    "city": "Collombey",
+    "course": {
+      "id": 6,
+      "niveau": 2,
+      "age": {
+        "from": 2,
+        "to": 13,
+        "unit": "month"
+      },
+      "day": "samedis",
+      "shift": {
+        "from": "10:40",
+        "to": "11:00"
+      },
+      "private": false,
+      "type": "BABY"
+    }
+  },
+  {
+    "city_id": 1,
+    "city": "Collombey",
+    "course": {
+      "id": 7,
+      "niveau": 2,
+      "age": {
+        "from": 2,
+        "to": 13,
+        "unit": "month"
+      },
+      "day": "samedis",
+      "shift": {
+        "from": "09:30",
+        "to": "09:50"
+      },
+      "private": false,
+      "type": "BABY"
+    }
+  },
+  {
+    "city_id": 1,
+    "city": "Collombey",
+    "course": {
+      "id": 8,
+      "niveau": 2,
+      "age": {
+        "from": 2,
+        "to": 13,
+        "unit": "month"
+      },
+      "day": "samedis",
+      "shift": {
+        "from": "09:50",
+        "to": "10:10"
+      },
+      "private": false,
+      "type": "BABY"
+    }
+  },
+  {
+    "city_id": 1,
+    "city": "Collombey",
+    "course": {
+      "id": 9,
+      "niveau": 2,
+      "age": {
+        "from": 2,
+        "to": 24,
+        "unit": "month"
+      },
+      "day": "samedis",
+      "shift": {
+        "from": "08:30",
+        "to": "08:50"
+      },
+      "private": false,
+      "type": "BABY"
+    }
+  },
+  {
+    "city_id": 1,
+    "city": "Collombey",
+    "course": {
+      "id": 10,
+      "niveau": 2,
+      "age": {
+        "from": 2,
+        "to": 36,
+        "unit": "month"
+      },
+      "day": "samedis",
+      "shift": {
+        "from": "11:40",
+        "to": "12:00"
+      },
+      "private": false,
+      "type": "BABY"
+    }
+  },
+  {
+    "city_id": 2,
+    "city": "Etoy",
+    "course": {
+      "id": 11,
+      "niveau": 1,
+      "age": {
+        "from": 1,
+        "to": 4,
+        "unit": "month"
+      },
+      "day": "dimanches",
+      "shift": {
+        "from": "11:30",
+        "to": "12:00"
+      },
+      "private": false,
+      "type": "BABY"
+    }
+  },
+  {
+    "city_id": 2,
+    "city": "Etoy",
+    "course": {
+      "id": 12,
+      "niveau": 1,
+      "age": {
+        "from": 1,
+        "to": 4,
+        "unit": "month"
+      },
+      "day": "dimanches",
+      "shift": {
+        "from": "09:30",
+        "to": "10:00"
+      },
+      "private": false,
+      "type": "BABY"
+    }
+  },
+  {
+    "city_id": 2,
+    "city": "Etoy",
+    "course": {
+      "id": 13,
+      "niveau": 1,
+      "age": {
+        "from": 1,
+        "to": 7,
+        "unit": "month"
+      },
+      "day": "dimanches",
+      "shift": {
+        "from": "11:00",
+        "to": "11:30"
+      },
+      "private": false,
+      "type": "BABY"
+    }
+  },
+  {
+    "city_id": 2,
+    "city": "Etoy",
+    "course": {
+      "id": 14,
+      "niveau": 2,
+      "age": {
+        "from": 2,
+        "to": 13,
+        "unit": "month"
+      },
+      "day": "dimanches",
+      "shift": {
+        "from": "10:00",
+        "to": "10:30"
+      },
+      "private": false,
+      "type": "BABY"
+    }
+  },
+  {
+    "city_id": 2,
+    "city": "Etoy",
+    "course": {
+      "id": 15,
+      "niveau": 2,
+      "age": {
+        "from": 2,
+        "to": 13,
+        "unit": "month"
+      },
+      "day": "dimanches",
+      "shift": {
+        "from": "08:30",
+        "to": "09:00"
+      },
+      "private": false,
+      "type": "BABY"
+    }
+  },
+  {
+    "city_id": 2,
+    "city": "Etoy",
+    "course": {
+      "id": 16,
+      "niveau": 2,
+      "age": {
+        "from": 2,
+        "to": 24,
+        "unit": "month"
+      },
+      "day": "dimanches",
+      "shift": {
+        "from": "09:00",
+        "to": "09:30"
+      },
+      "private": false,
+      "type": "BABY"
+    }
+  },
+  {
+    "city_id": 2,
+    "city": "Etoy",
+    "course": {
+      "id": 17,
+      "niveau": 2,
+      "age": {
+        "from": 2,
+        "to": 36,
+        "unit": "month"
+      },
+      "day": "dimanches",
+      "shift": {
+        "from": "10:30",
+        "to": "11:00"
+      },
+      "private": false,
+      "type": "BABY"
+    }
+  },
+  {
+    "city_id": 2,
+    "city": "Etoy",
+    "course": {
+      "id": 18,
+      "niveau": 2,
+      "age": {
+        "from": 2,
+        "to": 36,
+        "unit": "month"
+      },
+      "day": "dimanches",
+      "shift": {
+        "from": "12:00",
+        "to": "12:30"
+      },
+      "private": false,
+      "type": "BABY"
+    }
+  },
+  {
+    "city_id": 3,
+    "city": "Genève Meyrin",
+    "course": {
+      "id": 19,
+      "niveau": 1,
+      "age": {
+        "from": 1,
+        "to": 4,
+        "unit": "month"
+      },
+      "day": "samedis",
+      "shift": {
+        "from": "11:30",
+        "to": "12:00"
+      },
+      "private": false,
+      "type": "BABY"
+    }
+  },
+  {
+    "city_id": 3,
+    "city": "Genève Meyrin",
+    "course": {
+      "id": 20,
+      "niveau": 1,
+      "age": {
+        "from": 1,
+        "to": 4,
+        "unit": "month"
+      },
+      "day": "samedis",
+      "shift": {
+        "from": "09:00",
+        "to": "09:30"
+      },
+      "private": false,
+      "type": "BABY"
+    }
+  },
+  {
+    "city_id": 3,
+    "city": "Genève Meyrin",
+    "course": {
+      "id": 21,
+      "niveau": 1,
+      "age": {
+        "from": 1,
+        "to": 7,
+        "unit": "month"
+      },
+      "day": "samedis",
+      "shift": {
+        "from": "11:00",
+        "to": "11:30"
+      },
+      "private": false,
+      "type": "BABY"
+    }
+  },
+  {
+    "city_id": 3,
+    "city": "Genève Meyrin",
+    "course": {
+      "id": 22,
+      "niveau": 1,
+      "age": {
+        "from": 1,
+        "to": 7,
+        "unit": "month"
+      },
+      "day": "samedis",
+      "shift": {
+        "from": "09:30",
+        "to": "10:00"
+      },
+      "private": false,
+      "type": "BABY"
+    }
+  },
+  {
+    "city_id": 3,
+    "city": "Genève Meyrin",
+    "course": {
+      "id": 23,
+      "niveau": 2,
+      "age": {
+        "from": 2,
+        "to": 13,
+        "unit": "month"
+      },
+      "day": "samedis",
+      "shift": {
+        "from": "10:00",
+        "to": "10:30"
+      },
+      "private": false,
+      "type": "BABY"
+    }
+  },
+  {
+    "city_id": 3,
+    "city": "Genève Meyrin",
+    "course": {
+      "id": 24,
+      "niveau": 2,
+      "age": {
+        "from": 2,
+        "to": 13,
+        "unit": "month"
+      },
+      "day": "samedis",
+      "shift": {
+        "from": "12:00",
+        "to": "12:30"
+      },
+      "private": false,
+      "type": "BABY"
+    }
+  },
+  {
+    "city_id": 3,
+    "city": "Genève Meyrin",
+    "course": {
+      "id": 25,
+      "niveau": 2,
+      "age": {
+        "from": 2,
+        "to": 36,
+        "unit": "month"
+      },
+      "day": "samedis",
+      "shift": {
+        "from": "08:30",
+        "to": "09:00"
+      },
+      "private": false,
+      "type": "BABY"
+    }
+  },
+  {
+    "city_id": 4,
+    "city": "Lausanne",
+    "course": {
+      "id": 26,
+      "niveau": 1,
+      "age": {
+        "from": 1,
+        "to": 4,
+        "unit": "month"
+      },
+      "day": "dimanches",
+      "shift": {
+        "from": "11:30",
+        "to": "12:00"
+      },
+      "private": false,
+      "type": "BABY"
+    }
+  },
+  {
+    "city_id": 4,
+    "city": "Lausanne",
+    "course": {
+      "id": 27,
+      "niveau": 1,
+      "age": {
+        "from": 1,
+        "to": 4,
+        "unit": "month"
+      },
+      "day": "samedis",
+      "shift": {
+        "from": "09:30",
+        "to": "10:00"
+      },
+      "private": false,
+      "type": "BABY"
+    }
+  },
+  {
+    "city_id": 4,
+    "city": "Lausanne",
+    "course": {
+      "id": 28,
+      "niveau": 1,
+      "age": {
+        "from": 1,
+        "to": 7,
+        "unit": "month"
+      },
+      "day": "dimanches",
+      "shift": {
+        "from": "11:00",
+        "to": "11:30"
+      },
+      "private": false,
+      "type": "BABY"
+    }
+  },
+  {
+    "city_id": 4,
+    "city": "Lausanne",
+    "course": {
+      "id": 29,
+      "niveau": 1,
+      "age": {
+        "from": 1,
+        "to": 7,
+        "unit": "month"
+      },
+      "day": "dimanches",
+      "shift": {
+        "from": "08:30",
+        "to": "09:00"
+      },
+      "private": false,
+      "type": "BABY"
+    }
+  },
+  {
+    "city_id": 4,
+    "city": "Lausanne",
+    "course": {
+      "id": 30,
+      "niveau": 1,
+      "age": {
+        "from": 1,
+        "to": 7,
+        "unit": "month"
+      },
+      "day": "dimanches",
+      "shift": {
+        "from": "09:30",
+        "to": "10:00"
+      },
+      "private": false,
+      "type": "BABY"
+    }
+  },
+  {
+    "city_id": 4,
+    "city": "Lausanne",
+    "course": {
+      "id": 31,
+      "niveau": 1,
+      "age": {
+        "from": 1,
+        "to": 7,
+        "unit": "month"
+      },
+      "day": "samedis",
+      "shift": {
+        "from": "10:00",
+        "to": "10:30"
+      },
+      "private": false,
+      "type": "BABY"
+    }
+  },
+  {
+    "city_id": 4,
+    "city": "Lausanne",
+    "course": {
+      "id": 32,
+      "niveau": 1,
+      "age": {
+        "from": 1,
+        "to": 7,
+        "unit": "month"
+      },
+      "day": "samedis",
+      "shift": {
+        "from": "11:00",
+        "to": "11:30"
+      },
+      "private": false,
+      "type": "BABY"
+    }
+  },
+  {
+    "city_id": 4,
+    "city": "Lausanne",
+    "course": {
+      "id": 33,
+      "niveau": 1,
+      "age": {
+        "from": 1,
+        "to": 7,
+        "unit": "month"
+      },
+      "day": "samedis",
+      "shift": {
+        "from": "09:00",
+        "to": "09:30"
+      },
+      "private": false,
+      "type": "BABY"
+    }
+  },
+  {
+    "city_id": 4,
+    "city": "Lausanne",
+    "course": {
+      "id": 34,
+      "niveau": 2,
+      "age": {
+        "from": 2,
+        "to": 13,
+        "unit": "month"
+      },
+      "day": "dimanches",
+      "shift": {
+        "from": "10:00",
+        "to": "10:30"
+      },
+      "private": false,
+      "type": "BABY"
+    }
+  },
+  {
+    "city_id": 4,
+    "city": "Lausanne",
+    "course": {
+      "id": 35,
+      "niveau": 2,
+      "age": {
+        "from": 2,
+        "to": 13,
+        "unit": "month"
+      },
+      "day": "dimanches",
+      "shift": {
+        "from": "12:30",
+        "to": "13:00"
+      },
+      "private": false,
+      "type": "BABY"
+    }
+  },
+  {
+    "city_id": 4,
+    "city": "Lausanne",
+    "course": {
+      "id": 36,
+      "niveau": 2,
+      "age": {
+        "from": 2,
+        "to": 13,
+        "unit": "month"
+      },
+      "day": "samedis",
+      "shift": {
+        "from": "10:30",
+        "to": "11:00"
+      },
+      "private": false,
+      "type": "BABY"
+    }
+  },
+  {
+    "city_id": 4,
+    "city": "Lausanne",
+    "course": {
+      "id": 37,
+      "niveau": 2,
+      "age": {
+        "from": 2,
+        "to": 24,
+        "unit": "month"
+      },
+      "day": "dimanches",
+      "shift": {
+        "from": "09:00",
+        "to": "09:30"
+      },
+      "private": false,
+      "type": "BABY"
+    }
+  },
+  {
+    "city_id": 4,
+    "city": "Lausanne",
+    "course": {
+      "id": 38,
+      "niveau": 2,
+      "age": {
+        "from": 2,
+        "to": 24,
+        "unit": "month"
+      },
+      "day": "samedis",
+      "shift": {
+        "from": "11:30",
+        "to": "12:00"
+      },
+      "private": false,
+      "type": "BABY"
+    }
+  },
+  {
+    "city_id": 4,
+    "city": "Lausanne",
+    "course": {
+      "id": 39,
+      "niveau": 2,
+      "age": {
+        "from": 2,
+        "to": 24,
+        "unit": "month"
+      },
+      "day": "samedis",
+      "shift": {
+        "from": "08:30",
+        "to": "09:00"
+      },
+      "private": false,
+      "type": "BABY"
+    }
+  },
+  {
+    "city_id": 4,
+    "city": "Lausanne",
+    "course": {
+      "id": 40,
+      "niveau": 2,
+      "age": {
+        "from": 2,
+        "to": 36,
+        "unit": "month"
+      },
+      "day": "dimanches",
+      "shift": {
+        "from": "10:30",
+        "to": "11:00"
+      },
+      "private": false,
+      "type": "BABY"
+    }
+  },
+  {
+    "city_id": 4,
+    "city": "Lausanne",
+    "course": {
+      "id": 41,
+      "niveau": 2,
+      "age": {
+        "from": 2,
+        "to": 36,
+        "unit": "month"
+      },
+      "day": "samedis",
+      "shift": {
+        "from": "12:00",
+        "to": "12:30"
+      },
+      "private": false,
+      "type": "BABY"
+    }
+  },
+  {
+    "city_id": 5,
+    "city": "Morges",
+    "course": {
+      "id": 42,
+      "niveau": 1,
+      "age": {
+        "from": 1,
+        "to": 4,
+        "unit": "month"
+      },
+      "day": "mercredis",
+      "shift": {
+        "from": "14:00",
+        "to": "14:30"
+      },
+      "private": false,
+      "type": "BABY"
+    }
+  },
+  {
+    "city_id": 5,
+    "city": "Morges",
+    "course": {
+      "id": 43,
+      "niveau": 1,
+      "age": {
+        "from": 1,
+        "to": 4,
+        "unit": "month"
+      },
+      "day": "mercredis",
+      "shift": {
+        "from": "18:30",
+        "to": "19:00"
+      },
+      "private": false,
+      "type": "BABY"
+    }
+  },
+  {
+    "city_id": 5,
+    "city": "Morges",
+    "course": {
+      "id": 44,
+      "niveau": 1,
+      "age": {
+        "from": 1,
+        "to": 7,
+        "unit": "month"
+      },
+      "day": "mercredis",
+      "shift": {
+        "from": "14:30",
+        "to": "15:00"
+      },
+      "private": false,
+      "type": "BABY"
+    }
+  },
+  {
+    "city_id": 5,
+    "city": "Morges",
+    "course": {
+      "id": 45,
+      "niveau": 1,
+      "age": {
+        "from": 1,
+        "to": 7,
+        "unit": "month"
+      },
+      "day": "mercredis",
+      "shift": {
+        "from": "17:30",
+        "to": "18:00"
+      },
+      "private": false,
+      "type": "BABY"
+    }
+  },
+  {
+    "city_id": 5,
+    "city": "Morges",
+    "course": {
+      "id": 46,
+      "niveau": 2,
+      "age": {
+        "from": 2,
+        "to": 13,
+        "unit": "month"
+      },
+      "day": "mercredis",
+      "shift": {
+        "from": "15:00",
+        "to": "15:30"
+      },
+      "private": false,
+      "type": "BABY"
+    }
+  },
+  {
+    "city_id": 5,
+    "city": "Morges",
+    "course": {
+      "id": 47,
+      "niveau": 2,
+      "age": {
+        "from": 2,
+        "to": 13,
+        "unit": "month"
+      },
+      "day": "mercredis",
+      "shift": {
+        "from": "15:30",
+        "to": "16:00"
+      },
+      "private": false,
+      "type": "BABY"
+    }
+  },
+  {
+    "city_id": 5,
+    "city": "Morges",
+    "course": {
+      "id": 48,
+      "niveau": 2,
+      "age": {
+        "from": 2,
+        "to": 13,
+        "unit": "month"
+      },
+      "day": "mercredis",
+      "shift": {
+        "from": "17:00",
+        "to": "17:30"
+      },
+      "private": false,
+      "type": "BABY"
+    }
+  },
+  {
+    "city_id": 5,
+    "city": "Morges",
+    "course": {
+      "id": 49,
+      "niveau": 2,
+      "age": {
+        "from": 2,
+        "to": 24,
+        "unit": "month"
+      },
+      "day": "mercredis",
+      "shift": {
+        "from": "16:30",
+        "to": "17:00"
+      },
+      "private": false,
+      "type": "BABY"
+    }
+  },
+  {
+    "city_id": 5,
+    "city": "Morges",
+    "course": {
+      "id": 50,
+      "niveau": 2,
+      "age": {
+        "from": 2,
+        "to": 36,
+        "unit": "month"
+      },
+      "day": "mercredis",
+      "shift": {
+        "from": "18:00",
+        "to": "18:30"
+      },
+      "private": false,
+      "type": "BABY"
+    }
+  },
+  {
+    "city_id": 5,
+    "city": "Morges",
+    "course": {
+      "id": 51,
+      "niveau": 3,
+      "age": {
+        "from": 3,
+        "to": 13,
+        "unit": "month"
+      },
+      "day": "mercredis",
+      "shift": {
+        "from": "16:00",
+        "to": "16:30"
+      },
+      "private": false,
+      "type": "BABY"
+    }
+  }
+]

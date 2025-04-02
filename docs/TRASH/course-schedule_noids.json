@@ -1,0 +1,258 @@
+{
+  "courses": [
+    {
+      "day": "mercredi",
+      "time_slot": {
+        "start": "14:00",
+        "end": "14:30"
+      },
+      "location": "Morges",
+      "level": {
+        "id": "NIVEAU 1",
+        "name": "Éveil aquatique",
+        "age_category": "4-6 mois"
+      },
+      "capacity": 3,
+      "frequency": "hebdomadaire"
+    },
+    {
+      "day": "mercredi",
+      "time_slot": {
+        "start": "14:30",
+        "end": "15:00"
+      },
+      "location": "Morges",
+      "level": {
+        "id": "NIVEAU 1",
+        "name": "Éveil aquatique",
+        "age_category": "7-12 mois"
+      },
+      "capacity": 3,
+      "frequency": "hebdomadaire"
+    },
+    {
+      "day": "mercredi",
+      "time_slot": {
+        "start": "15:00",
+        "end": "15:30"
+      },
+      "location": "Morges",
+      "level": {
+        "id": "NIVEAU 2",
+        "name": "Sécurité aquatique",
+        "age_category": "13-23 mois"
+      },
+      "capacity": 3,
+      "frequency": "hebdomadaire"
+    },
+    {
+      "day": "mercredi",
+      "time_slot": {
+        "start": "15:30",
+        "end": "16:00"
+      },
+      "location": "Morges",
+      "level": {
+        "id": "NIVEAU 2",
+        "name": "Sécurité aquatique",
+        "age_category": "13-23 mois"
+      },
+      "capacity": 3,
+      "frequency": "hebdomadaire"
+    },
+    {
+      "day": "mercredi",
+      "time_slot": {
+        "start": "16:00",
+        "end": "16:30"
+      },
+      "location": "Morges",
+      "level": {
+        "id": "NIVEAU 3",
+        "name": "Petit nageur",
+        "age_category": "13-50 mois"
+      },
+      "capacity": 3,
+      "frequency": "hebdomadaire"
+    },
+    {
+      "day": "mercredi",
+      "time_slot": {
+        "start": "16:30",
+        "end": "17:00"
+      },
+      "location": "Morges",
+      "level": {
+        "id": "NIVEAU 2",
+        "name": "Sécurité aquatique",
+        "age_category": "24-35 mois"
+      },
+      "capacity": 3,
+      "frequency": "hebdomadaire"
+    },
+    {
+      "day": "samedi",
+      "time_slot": {
+        "start": "08:30",
+        "end": "09:00"
+      },
+      "location": "Meyrin",
+      "level": {
+        "id": "NIVEAU 2",
+        "name": "Sécurité aquatique",
+        "age_category": "36-50 mois"
+      },
+      "capacity": 7,
+      "frequency": "hebdomadaire"
+    },
+    {
+      "day": "samedi",
+      "time_slot": {
+        "start": "08:30",
+        "end": "09:00"
+      },
+      "location": "Lausanne",
+      "level": {
+        "id": "Débutant 1",
+        "name": "Cours enfants",
+        "age_category": "à partir de 5 ans"
+      },
+      "capacity": 3,
+      "frequency": "hebdomadaire"
+    },
+    {
+      "day": "dimanche",
+      "time_slot": {
+        "start": "08:30",
+        "end": "09:00"
+      },
+      "location": "Etoy",
+      "level": {
+        "id": "NIVEAU 2",
+        "name": "Sécurité aquatique",
+        "age_category": "13-23 mois"
+      },
+      "capacity": 6,
+      "frequency": "hebdomadaire"
+    },
+    {
+      "day": "dimanche",
+      "time_slot": {
+        "start": "08:30",
+        "end": "09:00"
+      },
+      "location": "Genève",
+      "level": {
+        "id": "NIVEAU 3",
+        "name": "Petit nageur",
+        "age_category": "36-50 mois"
+      },
+      "capacity": 5,
+      "frequency": "hebdomadaire"
+    },
+    {
+      "day": "mardi",
+      "time_slot": {
+        "start": "14:00",
+        "end": "14:30"
+      },
+      "location": "Morges",
+      "level": {
+        "id": "NIVEAU 1",
+        "name": "Éveil aquatique",
+        "age_category": "7-12 mois"
+      },
+      "capacity": 3,
+      "frequency": "hebdomadaire"
+    },
+    {
+      "day": "samedi",
+      "time_slot": {
+        "start": "08:30",
+        "end": "08:50"
+      },
+      "location": "Collombey-Muraz",
+      "level": {
+        "id": "NIVEAU 2",
+        "name": "Sécurité aquatique",
+        "age_category": "24-35 mois"
+      },
+      "capacity": 4,
+      "frequency": "hebdomadaire"
+    }
+  ],
+  "meta": {
+    "locations": [
+      {
+        "name": "Morges",
+        "venue": "Hôtel Le Petit Manoir",
+        "temperature": "31°C"
+      },
+      {
+        "name": "Meyrin",
+        "venue": "Hôpital de La Tour",
+        "temperature": "32°C"
+      },
+      {
+        "name": "Lausanne",
+        "venue": "Aquamed Malley",
+        "temperature": "32°C"
+      },
+      {
+        "name": "Etoy",
+        "venue": "L'Espérance",
+        "temperature": "30°C"
+      },
+      {
+        "name": "Genève",
+        "venue": "Physio Clinics Malagnou",
+        "temperature": "32°C"
+      },
+      {
+        "name": "Collombey-Muraz",
+        "venue": "Physio Clinics",
+        "temperature": "32°C"
+      }
+    ],
+    "schedule_info": {
+      "regular_duration": "30 minutes",
+      "exception_durations": {
+        "Collombey-Muraz": "20 minutes"
+      }
+    },
+    "levels_info": {
+      "baby_levels": [
+        {
+          "id": "b1",
+          "name": "Éveil aquatique",
+          "age_ranges": ["4-6 mois", "7-12 mois"]
+        },
+        {
+          "id": "b2",
+          "name": "Sécurité aquatique",
+          "age_ranges": ["13-23 mois", "24-35 mois", "36-50 mois"]
+        },
+        {
+          "id": "b3",
+          "name": "Petit nageur",
+          "age_ranges": ["13-50 mois"]
+        }
+      ],
+      "child_levels": [
+        "Débutant 1",
+        "Débutant 2",
+        "Intermédiaire 1",
+        "Intermédiaire 2",
+        "Avancé 1",
+        "Avancé 2",
+        "Swimi Team"
+      ]
+    },
+    "course_count": {
+      "total_courses": 12,
+      "baby_levels_count": 11,
+      "child_levels_count": 1
+    },
+    "organizer": "Swimi"
+  }
+} 

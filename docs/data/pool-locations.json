@@ -1,0 +1,56 @@
+[
+  {
+    "id": "meyrin",
+    "location": "Genève Meyrin",
+    "venue": "Hôpital de La Tour",
+    "address": "Avenue J.-D.-Maillard 3, 1217 Meyrin, Suisse",
+    "temperature": "32°C",
+    "organizer": "Swimi",
+    "link": "https://www.google.com/maps/search/Hôpital+de+La+Tour,+Meyrin,+Suisse"
+  },
+  {
+    "id": "collombey",
+    "location": "Collombey",
+    "venue": "Physio Clinics",
+    "address": "Chemin du Verger 3, 1868 Collombey-Muraz, Suisse",
+    "temperature": "32°C",
+    "organizer": "Swimi",
+    "link": "https://www.google.com/maps/search/Physio+Clinics,+Collombey-Muraz,+Suisse"
+  },
+  {
+    "id": "morges",
+    "location": "Morges",
+    "venue": "Hôtel Le Petit Manoir",
+    "address": "Avenue Ignace-Paderewski 8, 1110 Morges, Suisse",
+    "temperature": "31°C",
+    "organizer": "Swimi",
+    "link": "https://www.google.com/maps/search/Hôtel+Le+Petit+Manoir,+Morges,+Suisse"
+  },
+  {
+    "id": "lausanne",
+    "location": "Lausanne",
+    "venue": "Aquamed Malley",
+    "address": "Chemin du Martinet 28, 1007 Lausanne, Suisse",
+    "temperature": "32°C",
+    "organizer": "Swimi",
+    "link": "https://www.google.com/maps/search/Aquamed+Malley-Lausanne,+Lausanne,+Suisse"
+  },
+  {
+    "id": "etoy",
+    "location": "Etoy",
+    "venue": "L'Espérance",
+    "address": "Route de Lavigny 7, 1163 Etoy, Suisse",
+    "temperature": "30°C",
+    "organizer": "Swimi",
+    "link": "https://www.google.com/maps/search/L%27Espérance,+Etoy,+Suisse"
+  },
+  {
+    "id": "genève",
+    "location": "Genève Malagnou",
+    "venue": "Physio Clinics Malagnou",
+    "address": "Route de Malagnou 53, 1208 Genève, Suisse",
+    "temperature": "32°C",
+    "organizer": "Swimi",
+    "link": "https://www.google.com/maps/search/Physio+Clinics+Malagnou,+Genève,+Suisse"
+  }
+]

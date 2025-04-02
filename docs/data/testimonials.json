@@ -1,0 +1,271 @@
+{
+  "testimonials": [
+    {
+      "id": "1",
+      "author": "Felipe Santana Dias",
+      "date": "2024-11-02",
+      "language": "en",
+      "content": "The pool area is always clean, and the classes are run smoothly. It's clear that they pay attention to every detail, from the hygiene to the way they interact with the children. A great place to learn to swim!",
+      "rating": 5,
+      "tags": ["cleanliness", "organization", "attention_to_detail"]
+    },
+    {
+      "id": "2",
+      "author": "Peyman Yaghli",
+      "date": "2024-11-02",
+      "language": "fr",
+      "content": "Swimi propose un excellent équilibre entre professionnalisme et attention. Les instructeurs sont patients et à l'écoute des besoins de chaque enfant. Mon enfant est toujours heureux d'aller au cours, et je suis rassurée de savoir qu'il est entre de bonnes mains.",
+      "rating": 5,
+      "tags": ["professionnalisme", "attention_individuelle", "satisfaction_enfant"]
+    },
+    {
+      "id": "3",
+      "author": "Aicha Benyaich",
+      "date": "2024-11-02",
+      "language": "fr",
+      "content": "Excellent professionnalisme, et notre bébé adore ce cours. L'équipe est très flexible, une très bonne gestion de la communication et de l'organisation des cours. On a rapidement un retour via le numéro watsap, je recommande ce cours.",
+      "rating": 5,
+      "tags": ["professionnalisme", "flexibilité", "communication"]
+    },
+    {
+      "id": "4",
+      "author": "Leila Sheikhi",
+      "date": "2024-11-02",
+      "language": "fr",
+      "content": "Nous adorons Swimi! L'ambiance est chaleureuse, et les professeurs veillent à ce que chaque enfant se sente inclus. Les cours sont bien organisés, et on sent que l'équipe est passionnée par ce qu'elle fait. Je recommande vivement à tous les parents.",
+      "rating": 5,
+      "tags": ["ambiance", "inclusion", "passion"]
+    },
+    {
+      "id": "5",
+      "author": "Hamed Shafiei",
+      "date": "2024-11-02",
+      "language": "en",
+      "content": "My child always looks forward to swim class. The coaches are kind, and the environment is fun and welcoming. It's been a wonderful experience for us.",
+      "rating": 5,
+      "tags": ["fun", "kindness", "positive_environment"]
+    },
+    {
+      "id": "6",
+      "author": "Daniele Jungling",
+      "date": "2024-07-23",
+      "language": "fr",
+      "content": "Une méthode excellente pour familiariser notre bébé avec l'eau. Notre enseignante adapte les cours au progrès de l'enfant et toute leçon est une source d'apprentissage de nouvelles compétences. Nous sommes ravis des progrès que notre enfant a fait.",
+      "rating": 5,
+      "child_age_group": "baby",
+      "tags": ["méthode", "adaptation", "progrès"]
+    },
+    {
+      "id": "7",
+      "author": "Cristina Ferrer Bosch",
+      "date": "2024-06-23",
+      "language": "en",
+      "content": "Very happy with Swimi and all the courses we have done with our child. Personally, it's one of the most flexible options out there, with fun and small classes and a very responsive team behind. Can only recommend them!",
+      "rating": 5,
+      "tags": ["flexibility", "small_classes", "responsive_team"]
+    },
+    {
+      "id": "8",
+      "author": "Erwan Dumont",
+      "date": "2024-06-23",
+      "language": "fr",
+      "content": "Excellents cours de bébé nageurs, à recommander vivement. La professeure de natation à Malley/Lausanne apporte une belle énergie positive qui met notre enfant en confiance dans l'eau, avec un excellent apprentissage en douceur et adapté.",
+      "rating": 5,
+      "child_age_group": "baby",
+      "location": "Lausanne",
+      "tags": ["énergie_positive", "confiance", "apprentissage_adapté"]
+    },
+    {
+      "id": "9",
+      "author": "Florence Minder",
+      "date": "2024-05-23",
+      "language": "fr",
+      "content": "Nous avons commencé l'expérience Swimi avec nos deux bébés il y a quelques semaines, et nous en sommes ravis! La prof est super, très attentive. Nous passons toujours de chouettes moments.",
+      "rating": 5,
+      "child_age_group": "baby",
+      "tags": ["attention", "moments_agréables", "multiple_children"]
+    },
+    {
+      "id": "10",
+      "author": "Joséphine Pignard",
+      "date": "2024-05-23",
+      "language": "fr",
+      "content": "Notre fille de 7 mois va aux cours de bébés nageurs depuis ses 4 mois et ses progrès sont incroyables. Les équipes bilingues sont aux petits soins et très sympathiques, on recommande!",
+      "rating": 5,
+      "child_age_group": "baby",
+      "child_age_months": 7,
+      "tags": ["progrès", "bilinguisme", "attention"]
+    },
+    {
+      "id": "11",
+      "author": "Z B",
+      "date": "2024-02-23",
+      "language": "en",
+      "content": "We have been so impressed by the service provided by Swimi. First of all, the fact that their instructors are bilingual was played a big role in enabling our kids to feel comfortable. Then you have the amazing team who run it! Honestly, they have been the most accommodating to our family's needs.",
+      "rating": 5,
+      "tags": ["bilingual", "accommodating", "family_friendly"]
+    },
+    {
+      "id": "12",
+      "author": "Noémie Neighbour",
+      "date": "2023-12-23",
+      "language": "en",
+      "content": "Lovely teacher, really enthusiastic and knowledgeable, good safety techniques for water safety but done in a fun, playful way (holding on to the side, getting out and in the pool safely, arm and leg movement, floating on the back etc).",
+      "rating": 5,
+      "tags": ["safety", "fun_learning", "technique"]
+    },
+    {
+      "id": "13",
+      "author": "Salamandre Cesa",
+      "date": "2023-11-25",
+      "language": "fr",
+      "content": "Pour s'assurer que nos prochaines vacances à la mer se passent sans stress, notre fille se familiarise avec l'eau sous la bienveillance de Joâo. Elle adore! Merci pour lui apporter tant de confiance et de plaisir.",
+      "rating": 5,
+      "instructor": "Joâo",
+      "tags": ["préparation_vacances", "confiance", "plaisir"]
+    },
+    {
+      "id": "14",
+      "author": "Karine Dufresne",
+      "date": "2023-11-25",
+      "language": "fr",
+      "content": "Super Prof, joyeuse, hyper souriante. Le cours est très sympa. Notre fille adore et nous aussi. On recommande!",
+      "rating": 5,
+      "tags": ["enseignant_joyeux", "cours_sympa", "satisfation_famille"]
+    },
+    {
+      "id": "15",
+      "author": "Alexandra Rohrer",
+      "date": "2023-11-25",
+      "language": "fr",
+      "content": "Piscine et monitrice super. Notre fille adore y aller. Cours avec petit groupe ce qui est agréable pour le suivi des enfants. Recommandation totale. C'est parfait.",
+      "rating": 5,
+      "tags": ["petits_groupes", "suivi_personnalisé"]
+    },
+    {
+      "id": "16",
+      "author": "Brenda Cossy",
+      "date": "2023-11-25",
+      "language": "fr",
+      "content": "Super cours, la piscine est chauffée donc très agréable pour bébé et parents! Et la monitrice nous mets vraiment à l'aise. Je recommande.",
+      "rating": 5,
+      "child_age_group": "baby",
+      "tags": ["piscine_chauffée", "confort", "monitrice_accueillante"]
+    },
+    {
+      "id": "17",
+      "author": "Fiona Glauser",
+      "date": "2023-11-25",
+      "language": "fr",
+      "content": "Mon fils adore, un cours adapté à chaque enfant. Génial.",
+      "rating": 5,
+      "tags": ["personnalisation", "satisfaction_enfant"]
+    },
+    {
+      "id": "18",
+      "author": "Fatemeh Aalai",
+      "date": "2023-11-25",
+      "language": "fr",
+      "content": "Environnement petit, confortable et facile d'accès. Les cours sont adaptés au niveau des enfants et respectueux des rythmes de chacun. Mon fils a beaucoup de plaisir dans ces cours et progresse visiblement de fois en fois.",
+      "rating": 5,
+      "tags": ["environnement_confortable", "respect_rythme", "progression_visible"]
+    },
+    {
+      "id": "19",
+      "author": "Cendrine Davesne",
+      "date": "2023-11-25",
+      "language": "fr",
+      "content": "Mes deux enfants de 4 ans et 2 ans ont suivi les cours de bébé nageur avec SWIMI et ils ont adoré! Nous sommes partis à la mer peu de temps après et j'ai été surprise de voir comme ils étaient à l'aise dans l'eau! Je recommande vivement de découvrir les cours de SWIMI!",
+      "rating": 5,
+      "child_age_years": [2, 4],
+      "tags": ["multiple_children", "résultats_rapides", "préparation_vacances"]
+    },
+    {
+      "id": "20",
+      "author": "Oksana Gosset",
+      "date": "2023-11-25",
+      "language": "fr",
+      "content": "Je recommande! Naya est super et le lieu est très agréable!",
+      "rating": 5,
+      "instructor": "Naya",
+      "tags": ["lieu_agréable"]
+    },
+    {
+      "id": "21",
+      "author": "LUBOMIROVA Biya",
+      "date": "2023-11-23",
+      "language": "fr",
+      "content": "Nous sommes très satisfaits de l'encadrement professionnel et bienveillant de Nayyereh. Elle est une superbe prof! L'eau de la piscine est à 31° et c'est un réel atout. Notre fils de 1 an a commencé les cours à la rentrée et depuis a fait beaucoup de progrès.",
+      "rating": 5,
+      "instructor": "Nayyereh",
+      "child_age_years": 1,
+      "tags": ["température_idéale", "professionnalisme", "progrès_rapides"]
+    },
+    {
+      "id": "22",
+      "author": "Celia Kayser",
+      "date": "2023-11-23",
+      "language": "fr",
+      "content": "Un moment de plaisir pour familiariser bébé avec l'eau. L'eau est chaude. Ce sont des petits groupes de 3/4 enfants. La prof est géniale, toujours de bonne humeur et souriante. On passe un excellent moment qu'on soit avec son enfant dans l'eau ou juste en regardant.",
+      "rating": 5,
+      "child_age_group": "baby",
+      "tags": ["petits_groupes", "eau_chaude", "ambiance_positive"]
+    },
+    {
+      "id": "23",
+      "author": "Ana Padua",
+      "date": "2023-11-23",
+      "language": "en",
+      "content": "We are extremely happy with the swimming classes. Our 3-year old son has learned so quickly and he is enjoying so much. The teacher is very friendly, share confidence with huge expertise. The children learn while they have so much fun.",
+      "rating": 5,
+      "child_age_years": 3,
+      "tags": ["quick_learning", "fun", "expertise"]
+    },
+    {
+      "id": "24",
+      "author": "Elmira Shahrabi",
+      "date": "2023-11-23",
+      "language": "en",
+      "content": "I have started when my kid had 8 months old. He is now 13 months and he manages to voluntarily jump to the swimming pool without having fears. He can grab things under water with my assistance but he has no problem of taking his head underwater which is a big step for the child to start liking the water.",
+      "rating": 5,
+      "child_age_months": 13,
+      "tags": ["confidence_building", "underwater_skills", "progress"]
+    },
+    {
+      "id": "25",
+      "author": "Ximena Navia",
+      "date": "2023-11-23",
+      "language": "en",
+      "content": "My 3 year old son loves Naya and going to swimming class! In only 2 months, he is already so close to swimming on his own.",
+      "rating": 5,
+      "instructor": "Naya",
+      "child_age_years": 3,
+      "tags": ["quick_progress", "instructor_connection"]
+    }
+  ],
+  "meta": {
+    "total_count": 25,
+    "average_rating": 5,
+    "languages": {
+      "fr": 15,
+      "en": 10
+    },
+    "instructors_mentioned": [
+      "Naya",
+      "Nayyereh",
+      "Joâo"
+    ],
+    "top_tags": [
+      "professionnalisme",
+      "progrès",
+      "petits_groupes",
+      "confiance",
+      "plaisir"
+    ],
+    "child_age_groups": {
+      "baby": 6,
+      "toddler": 2,
+      "child": 4
+    }
+  }
+} 
